@@ -1,6 +1,6 @@
 # Image Vegetable Classification Using Back Propagation Neural Network
 
-##Step to classify image
+## Step to classify image
 
 1. Load Data
 2. Feature Extraction using HOG
@@ -9,7 +9,7 @@
 5. Creating Model using tensorflow
 6. Combine model with Random Search it can explore parameters
 
-##The dataset used for each label is 1025 data
+## The dataset used for each label is 1025 data
 
 1. Bitter Gourd
 2. Broccoli
@@ -24,7 +24,7 @@ Dataset vegetable [URL](https://www.kaggle.com/datasets/misrakahmed/vegetable-im
 
 ![Accuracy](accuracy_testing_train.png)
 
-##Classification Report
+## Classification Report
 
 | Vegetable    | Precicion | Recall | F1-Score |
 | ------------ | --------- | ------ | -------- |
