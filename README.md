@@ -9,7 +9,7 @@
 5. Creating Model using tensorflow
 6. Combine model with Random Search it can explore parameters
 
-##Dataset is used
+##The dataset used for each label is 1025 data
 
 1. Bitter Gourd
 2. Broccoli
@@ -18,7 +18,7 @@
 5. Cucumber
 6. Radish
 
-Dataset from [dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset).
+Dataset vegetable [URL](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset).
 
 ##Result Analysis
 
